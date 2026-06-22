@@ -2,7 +2,7 @@
 
 This repository contains a collection of C# projects I built while learning the fundamentals of C# and the .NET ecosystem. Each project reflects concepts I practiced throughout the course, including object-oriented programming, interfaces, operator overloading, ASP.NET MVC, and working with SQL Server through Entity Framework.
 
-## 🚀 What’s Inside
+## 🚀 Porjects
 - Core C# exercises (classes, methods, OOP principles)
 - Operator overloading and interface implementation
 - ASP.NET MVC web application (Car Insurance Quote project)
