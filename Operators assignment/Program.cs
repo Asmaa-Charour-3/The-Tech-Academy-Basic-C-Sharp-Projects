@@ -59,15 +59,15 @@ class Program
         Employee emp1 = new Employee
         {
             Id = 101,
-            FirstName = "Kawthar",
-            LastName = "AlHallak"
+            FirstName = "Asmaa",
+            LastName = "Charour"
         };
 
         // 🏗️ Creating the second employee — same Id to test equality logic
         Employee emp2 = new Employee
         {
             Id = 101,
-            FirstName = "Alicia",
+            FirstName = "John",
             LastName = "Johns"
         };
 
